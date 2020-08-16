@@ -4,6 +4,7 @@
 *	Collected data of the history of urbanized blocks and lots for each borough from the City of New York Department of planning website.
 *	Generated respective graphs, which serve to illustrate the stages of urbanization in New York City, using MATLAP.
 *	Used ArcGIS software to help generate explanatory maps of the five boroughs during the stages of development from 1900s until present.
+* Report can be found at (https://github.com/samuely4/CRSP-Urbanization-New-York-City/blob/master/Urbanization%20in%20New%20York%20City.pdf)
 
 ## Manhattan
 ![picture alt](https://raw.githubusercontent.com/samuely4/CRSP-Urbanization-New-York-City/master/MANHATTAN%20PART%201.png)
